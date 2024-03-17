@@ -1,0 +1,15 @@
+{
+    "main": "index.js",
+    "man": [
+        "./README.md"
+    ],
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "axios": "^1.6.7",
+        "chalk": "^5.3.0",
+        "minimist": "^1.2.8"
+    },
+    "type": "module"
+}
